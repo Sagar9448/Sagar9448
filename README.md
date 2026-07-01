@@ -48,6 +48,15 @@
 - Built using React.js
 
 ---
+### 🎬 Movie Search App
+- Search movies by title
+- View movie posters, ratings, release dates and overviews
+- Fast and responsive user interface
+- Integrated Movie Database (TMDB/OMDb) API
+- Tech Stack: React.js, JavaScript, HTML, CSS, API
+
+---
+
 
 ### 🏡 WanderLust (Airbnb Clone)
 - Full Stack MERN Project
